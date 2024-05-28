@@ -1,0 +1,14 @@
+{
+  "name": "@benono/npm",
+  "version": "1.0.1",
+  "description": "Best calculator in the universe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Ben Ono",
+  "license": "ISC"
+}
